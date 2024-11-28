@@ -232,4 +232,4 @@ const abi=[
     }
 ];
 const taskcommissioner = new web3.eth.Contract(abi, address);
-export default new web3.eth.Contract(abi, address);
+export default taskcommissioner;
